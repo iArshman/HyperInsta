@@ -11,14 +11,14 @@ export const config = {
     simulateMobile: true, // Simulate mobile device metadata for audio messages
   },
   telegram: {
-    botToken: '7580382614:AAH30PW6TFmgRzbC7HUXIHQ35GpndbJOIEI',
+    botToken: '75803xxx4:AAHxxxxxxxxxxxxxxxxxxxxxxxxx',
     chatId: '-1002287300661',
     adminUserId: '7405203657',
     enabled: true,
   },
   
   mongo: {
-    uri: 'mongodb+srv://itxelijah07:ivp8FYGsbVfjQOkj@cluster0.wh25x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
+    uri: 'mongodb+srv://xxxx:xxxxxxx@cluster0.wh25x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     dbName: 'hyper_instza',
     options: {
       useNewUrlParser: true,
