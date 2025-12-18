@@ -4,9 +4,6 @@ export const config = {
     password: '12312320Pk..', // Your Instagram password
     useMongoSession: true // Set to false to use file-based sessions
   },
-  messageRequests: {
-    autoApprove: true, // Auto-approve all message requests if true
-  },
   audioMessages: {
     simulateMobile: true, // Simulate mobile device metadata for audio messages
   },
